@@ -13,8 +13,9 @@ export const waLink = (text) =>
 
 export const WA_DEFAULT = waLink("Hai NYEKER, aku mau pesan.");
 
-export const HOURS = "Senin–Minggu · 10.00–22.00";
-export const LOCATION = "Jl. Contoh Raya No. 99, [Kotamu]";
+export const HOURS = "Sabtu–Minggu · 05:00–09:00 WIB";
+export const LOCATION =
+  "Taman Bungkul St, Darmo, Wonokromo, Surabaya, East Java 60241";
 
 // Foto ditaruh di folder /public/photos. Kalau belum ada file-nya,
 // slot otomatis menampilkan placeholder yang rapi.
@@ -115,7 +116,7 @@ export const FAQS = [
   },
   {
     q: "Kirim ke mana aja?",
-    a: "Sekitar [Kotamu]. Gratis ongkir radius 5 km. Di luar itu, tanya dulu di WhatsApp.",
+    a: "Sekitar Surabaya. Gratis ongkir radius 1 km. Di luar itu, tanya dulu di WhatsApp.",
   },
   {
     q: "Berapa lama sampai?",

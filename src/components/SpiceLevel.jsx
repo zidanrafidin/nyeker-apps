@@ -18,7 +18,7 @@ export default function SpiceLevel() {
               <span className="text-kuning">Berani</span> sampai level berapa?
             </h2>
             <p className="mt-3 max-w-md font-body text-lg text-cream/80">
-              Dari yang kalem sampai yang bikin kapok. Klik level, lihat efeknya.
+              Dari yang kalem sampai yang bikin kapok.
             </p>
 
             <div className="mt-8">

@@ -66,12 +66,12 @@ export default function Hero() {
               {/* Stiker TANPA TULANG */}
               <div className="absolute -left-6 -top-6 flex h-24 w-24 items-center justify-center rounded-full border-[3px] border-hitam bg-merah text-center shadow-brutal">
                 <CircularBadge
-                  text="TANPA TULANG · 100% CEKER · "
+                  text="TANPA TULANG ·100% CEKER · WO TANPA TULANG · "
                   className="absolute inset-0 text-cream"
                 />
-                <span className="font-display text-3xl uppercase leading-none text-cream">0</span>
+                <span className="font-display text-3xl uppercase leading-none text-cream"></span>
                 <span className="absolute bottom-3 font-body text-[9px] font-bold uppercase tracking-wide text-cream/90">
-                  tulang
+                  
                 </span>
               </div>
 
